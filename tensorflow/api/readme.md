@@ -1,2 +1,2 @@
-# 分为接口研读系列（tensorflow1.0+）和较早的api翻译版本
-# tensorflow翻译系列红constant_op和math_op操作在接口研读系列中已经介绍，故不再介绍
+# 鍒嗕负鎺ュ彛鐮旇绯诲垪锛坱ensorflow1.0+锛夊拰杈冩棭鐨刟pi缈昏瘧鐗堟湰
+# tensorflow缈昏瘧绯诲垪涓璫onstant_op鍜宮ath_op鎿嶄綔鍦ㄦ帴鍙ｇ爺璇荤郴鍒椾腑宸茬粡浠嬬粛锛屾晠涓嶅啀浠嬬粛
